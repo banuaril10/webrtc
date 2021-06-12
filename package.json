@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://banuaril10.github.io/webrtc/"
+  "homepage": "https://banuaril10.github.io/webrtc/",
   "dependencies": {
     "classnames": "^2.2.6",
     "firebase": "^7.19.1",
